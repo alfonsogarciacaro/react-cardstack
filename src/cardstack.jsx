@@ -80,12 +80,12 @@ const styles = {
 	margin: 0,
 };
 
-CardStack.propTypes = {
-	background: React.PropTypes.string,
-	height: React.PropTypes.number,
-	hoverOffset: React.PropTypes.number,
-	width: React.PropTypes.number,
-};
+// CardStack.propTypes = {
+// 	background: React.PropTypes.string,
+// 	height: React.PropTypes.number,
+// 	hoverOffset: React.PropTypes.number,
+// 	width: React.PropTypes.number,
+// };
 
 CardStack.defaultProps = {
 	width: 350,
