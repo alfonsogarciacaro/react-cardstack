@@ -1,5 +1,4 @@
 node_modules/
-dist/
 umd/
 .DS_Store
 *.log
